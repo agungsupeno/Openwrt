@@ -1,252 +1,68 @@
 # Install-Tinyfm
+<a name="readme-top"></a>
 
-
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/agungsupeno/private">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">project_title</h3>
-
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/agungsupeno/private"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/agungsupeno/private">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+  <p align="left">
+    Kegunaan Tinyfm adalah untuk mengakses file Openwrt selain menggunakan WinSCP, Tinyfm juga memudahkan akses File Openwrt yang memiliki tampilan GUI memudahkan untuk mengola file layaknya File Explorer atau File Manager. Tinyfm merupakan sebuah program pengelola file yang berbasis web yang include dengan openwrt. Namun sebelum instalasi harus punya winSCP terlebih dahulu untuk memasukan beberapa file kedalam OpenWRT.
   </p>
+
 </div>
+<!-- USAGE EXAMPLES -->
 
+_Download WinSCP [Download](https://winscp.net/eng/download.php)_
 
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
+ 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
-
-
-
-
-
-1. Buka Terminal
------------------------------------
-      Opkg update
+1. Buka Terminal di OpenWRT
+2. Kemudian Update dan Install php8
+    * **Update**
+      ```sh
+      opkg update
+      ```
+    * **Install php8**
+      ```sh
       Opkg install php8-cgi php8-mod-session php8-mod-ctype php8-mod-fileinfo php8-mod-mbstring php8-mod-iconv zoneinfo-asia
------------------------------------
-2. Buka via winscp
-3. Masuk ke **/etc/init.d/** kemudian Buka _uhttpd_ masukan baris berikut kedalam config uhttpd 'main' (Tambahkan di baris terakhir)
------------------------------------
+      ```
+ 3. Buka **WinSCP** kemudian masuk ke `/etc/init.d/`
+ 4. Buke dengan File `uhttpd` masukan baris berikut kedalam `config uhttpd 'main'` Tambahkan di Baris terakhir
+    * **Edit config uhttpd 'main'**
+      ```sh
       list interpreter '.php=/usr/bin/php-cgi'
       option index_page 'index.html, index.php'
-      option no_dirlists 1    
+      option no_dirlists 1
       log 'true'
------------------------------------
-4. Masuk kembali ke terminal
------------------------------------
+      ```
+      ![image](https://user-images.githubusercontent.com/40128651/222652843-8bb355cc-46cd-457c-b04d-862d657b9c0b.png)
+      
+  5.  Masuk kembali ke Terminal untuk Restart OpenWRT kemudian ketikan
+      * **Restart OpenWRT**
+      ```sh
       /etc/init.d/uhttpd restart
------------------------------------
-5. Buka Winscp kembali kemudian masukan Folder pendukung yang pertama "tinyfm" masukan ke /www/
-6. Jika sudah memasukan file **Tinyfm** melalui Winscp. ketikan perintah berikut di terminal.
------------------------------------
+      ``` 
+   6. Buka **Winscp** kembali kemudian masukan Folder pendukung yang pertama `tinyfm` masukan ke `/www/`
+   7. Jika sudah, kembali ke terminal. Kemduian ketikan perintah berikut.
+      
+      ```sh
       cd /wwww
       cd tinyfm/
       ln -s / rootfs
- -----------------------------------
-6. Cek folder nya apakah sudah terbentuk dengan mengetikan perintah
------------------------------------
+      ```
+   8. Cek foldernya apakah sudah terbentuk dengan mengetikan perintah
+   
+      ```sh
       ls -l
- -----------------------------------
-8. Buka index.php di /www/tinyfm
-9. Edit timezone di line 59 'UTC' menjadi 'Asia/Jakarta'
-10. Masuk ke /usr/lib/lua/luci
-11. Kemudian pindahkan _**'tinyfm.lua' ke "Controller"**_
-12. Kemudian pindahkan _**'tinyfm.htm' ke "View"**_
-13. Restart Routerboard.
+      ```
+   9. Balik kembali ke **WinSCP** kemudian buka `/www/tinyfm` edit dengan file editor pada file `index.php`
+   10. Cari dan edit timezone di `line 59` pada `UTC` menjadi `Asia/Jakarta`
+   11. Buka WinSCP kembali
+   12. Kemudian pindahkan `tinyfm.lua` ke `Controller`
+   13. Kemudian pindahkan `tinyfm.htm` ke `View`
+   14. Kemudian Logout pada OpenWRT Login kembali
+   15. Done
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
