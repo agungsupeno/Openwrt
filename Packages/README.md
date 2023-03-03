@@ -1,7 +1,7 @@
 
 ## 📦 Packages
 
-### Tutorial Yt
+### Tutorial OpenWRT
 
 | Name | Description |
 | --- | --- |
